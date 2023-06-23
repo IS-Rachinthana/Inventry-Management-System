@@ -56,5 +56,3 @@ The APictures-IM is a fully functional sub-ERP application built on the .NET Fra
 
 * Order History 
 <img src="Project Content/Screen Shots/Screenshot 2022-11-13 002552.png">
-
-
